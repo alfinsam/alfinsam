@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alfinsam
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning professional programming in Data Analytics from NIIT Stackroute
-- 💞️ I’m looking to collaborate on ...
+- 🌱 NIIT Certified Professional Data Analyst
 - 📫 Reach me on alfinsam123@gmail.com 
 
 <!---
