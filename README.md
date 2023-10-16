@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @alfinsam
-- 👀 I’m interested in ...
 - 🌱 NIIT Certified Professional Data Analyst
 - 📫 Reach me on alfinsam123@gmail.com 
 
