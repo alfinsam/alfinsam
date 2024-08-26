@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @alfinsam
 - 🌱 NIIT Certified Professional Data Analyst
+- Data Associate - Finquest
 - 📫 Reach me on alfinsam123@gmail.com 
 
 <!---
